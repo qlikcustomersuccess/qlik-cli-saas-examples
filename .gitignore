@@ -1,0 +1,5 @@
+# All files and folder prefixed with dot
+.* 
+
+# All log files
+.log
